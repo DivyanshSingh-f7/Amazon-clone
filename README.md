@@ -1,2 +1,2 @@
 # Amazon-clone
-This is my first project after lerning front-end.
+This is my first project after lerning front-end. then this happend
